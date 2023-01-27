@@ -1,0 +1,11 @@
+repositories {
+    mavenCentral()
+}
+
+apply plugin: 'java'
+
+dependencies {
+    implementation 'net.serenity-bdd:serenity-screenplay:3.6.0'
+    testImplementation 'net.serenity-bdd:serenity-cucumber:3.6.0'
+    implementation 'net.serenity-bdd:serenity-ensure:3.6.0'
+}

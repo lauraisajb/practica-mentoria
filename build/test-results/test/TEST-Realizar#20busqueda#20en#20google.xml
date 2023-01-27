@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar busqueda en google" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-27T16:33:40" hostname="LAPTOP-KP5OASU7" time="13.567">
+  <properties/>
+  <testcase name="Buscar pagina de wikipedia" classname="Realizar busqueda en google" time="13.567"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 21794
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 27, 2023 11:33:45 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find an exact match for CDP version 109, so returning the closest version found: 108
+]]></system-err>
+</testsuite>
